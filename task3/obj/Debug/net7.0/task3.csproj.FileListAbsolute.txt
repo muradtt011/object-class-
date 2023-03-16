@@ -1,0 +1,5 @@
+/Users/murad/Projects/task3/task3/obj/Debug/net7.0/task3.csproj.AssemblyReference.cache
+/Users/murad/Projects/task3/task3/obj/Debug/net7.0/task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/murad/Projects/task3/task3/obj/Debug/net7.0/task3.AssemblyInfoInputs.cache
+/Users/murad/Projects/task3/task3/obj/Debug/net7.0/task3.AssemblyInfo.cs
+/Users/murad/Projects/task3/task3/obj/Debug/net7.0/task3.csproj.CoreCompileInputs.cache
